@@ -16,6 +16,7 @@ public class Program01 {
 		Program01 abc= new Program01();
 		abc.Diff();
 		System.out.println(abc.c);
+		System.out.println(abc.ab);
 
 	}
 	public static void sum () 
